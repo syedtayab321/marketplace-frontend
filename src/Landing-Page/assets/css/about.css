@@ -1,0 +1,93 @@
+.about-container {
+  padding: 2rem;
+  background-color: #f8f9fa;
+}
+
+.about-container  .hero-section {
+  background: url('./../images/background.jpg') no-repeat center center;
+  background-size: cover;
+  color: #ffffff;
+  text-align: center;
+  padding: 4rem 2rem;
+  border-radius: 8px;
+}
+
+.about-container  .hero-title {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.about-container  .hero-text {
+  font-size: 1.25rem;
+}
+
+.about-container  .about-section {
+  text-align: center;
+  margin: 4rem 0;
+}
+
+.about-container  .about-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  color: #343a40;
+}
+
+.about-container  .about-description {
+  font-size: 1.25rem;
+  color: #6c757d;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.about-container  .features-section {
+  margin: 4rem 0;
+  text-align: center;
+}
+
+.about-container  .feature-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 2rem;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.about-container .feature-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.about-container .feature-icon {
+  font-size: 2rem;
+  color: #007bff;
+  margin-bottom: 1rem;
+}
+
+.about-container .feature-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.about-container .feature-description {
+  font-size: 1rem;
+  color: #6c757d;
+}
+
+.about-container footer {
+  background-color: #343a40;
+  color: #ffffff;
+  text-align: center;
+  padding: 1.5rem 0;
+  margin-top: 4rem;
+}
+
+.about-container footer a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.about-container footer a:hover {
+  text-decoration: underline;
+}

@@ -1,13 +1,16 @@
 import './App.css';
-import {Routes} from "react-router-dom";
-import SellerRoutes from "./Seller-Portal/routes/AppRoutes";
+import {Route, Routes} from "react-router-dom";
+import LandingPage from "./Landing-Page/LandingPage";
+import React from "react";
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 function App() {
   return (
     <>
-       <Routes>
-            <SellerRoutes/>
-       </Routes>
+        <Routes>
+            <Route path="/" element={<LandingPage/>} />
+        </Routes>
     </>
   );
 }
