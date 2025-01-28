@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fe50236-d3b5-4fca-a38b-a0a66596eca0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Landing-Page/Components/Navbar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Landing-Page/LandingPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Landing-Page/Pages/About.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Landing-Page/Pages/Footer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Landing-Page/Pages/Main-Page.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Landing-Page/Pages/Services.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Landing-Page/assets/css/about.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Landing-Page/assets/css/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Landing-Page/assets/css/navbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Landing-Page/assets/css/services.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/marketplace-frontend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/marketplace-frontend.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seller-Portal/routes/AppRoutes.jsx" beforeDir="false" />
-    </list>
+    <list default="true" id="2fe50236-d3b5-4fca-a38b-a0a66596eca0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +81,8 @@
       <workItem from="1737912393592" duration="148000" />
       <workItem from="1737964740258" duration="2784000" />
       <workItem from="1737992638241" duration="3288000" />
-      <workItem from="1738043158560" duration="5039000" />
+      <workItem from="1738043158560" duration="5672000" />
+      <workItem from="1738087176932" duration="797000" />
     </task>
     <servers />
   </component>
@@ -115,7 +95,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/Landing-Page/LandingPage.jsx</url>
           <line>9</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
