@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fe50236-d3b5-4fca-a38b-a0a66596eca0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2fe50236-d3b5-4fca-a38b-a0a66596eca0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,6 +82,7 @@
       <workItem from="1737964740258" duration="2784000" />
       <workItem from="1737992638241" duration="3288000" />
       <workItem from="1738043158560" duration="5672000" />
+      <workItem from="1738087176932" duration="305000" />
     </task>
     <servers />
   </component>
@@ -96,7 +95,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/Landing-Page/LandingPage.jsx</url>
           <line>9</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
