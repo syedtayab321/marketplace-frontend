@@ -5,8 +5,10 @@ import "./../assets/css/navbar.css";
 import logo from "./../assets/images/background.jpg";
 
 const AppNavbar = () => {
+
   return (
-    <Navbar bg="dark" variant="dark" expand="lg" fixed="top" className="shadow">
+      <>
+       <Navbar bg="dark" variant="dark" expand="lg" fixed="top" className="shadow">
       <Container>
         <Navbar.Brand href="/" className="d-flex align-items-center">
           <img
@@ -42,16 +44,19 @@ const AppNavbar = () => {
               align="end"
               className="text-white"
             >
-              <NavDropdown.Item href="/seller-login">
-                <i className="bi bi-person-circle me-2"></i>Seller Register
+              <NavDropdown.Item href='/seller-signup'>
+                <Button href='/seller-signup'  variant="outline-dark" className="ms-3 px-4 fw-bold">
+                   Seller Registration
+                </Button>
               </NavDropdown.Item>
-              <NavDropdown.Item href="/buyer-login">
-                <i className="bi bi-people me-2"></i>Buyer Register
+              <NavDropdown.Item href='/seller-login'>
+                <Button href="/seller-login" variant="dark" className="ms-3 px-4 fw-bold">
+                   Buyer Registration
+                </Button>
               </NavDropdown.Item>
             </NavDropdown>
-
             <Button
-              href="/login"
+              href="/seller-login"
               variant="outline-light"
               className="ms-3 px-4 fw-bold"
             >
@@ -61,6 +66,7 @@ const AppNavbar = () => {
         </Navbar.Collapse>
       </Container>
     </Navbar>
+      </>
   );
 };
 

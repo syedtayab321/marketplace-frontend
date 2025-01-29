@@ -4,7 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fe50236-d3b5-4fca-a38b-a0a66596eca0" name="Changes" comment="" />
+    <list default="true" id="2fe50236-d3b5-4fca-a38b-a0a66596eca0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Seller-Portal/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seller-Portal/components/SuccessToast.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seller-Portal/pages/Auth/SellerAuth.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seller-Portal/pages/Dashboard/SellerHomePage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seller-Portal/pages/Listings/ProductListings.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seller-Portal/pages/Orders/OrderManagement.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seller-Portal/pages/Reviews/ReviewsPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seller-Portal/pages/Sales/SalesReport.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/marketplace-frontend.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Landing-Page/Components/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Landing-Page/Components/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Seller-Portal/components/Button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seller-Portal/Modals/AddProductModal.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Seller-Portal/components/Footer.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Seller-Portal/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seller-Portal/components/ErrorToast.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Seller-Portal/components/Loader.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seller-Portal/components/Sidebar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Seller-Portal/components/Pagination.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seller-Portal/components/TopBar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Seller-Portal/components/Slider.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seller-Portal/pages/Categories/Category.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Seller-Portal/pages/Auth/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seller-Portal/pages/Customers/CustomerPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Seller-Portal/pages/Auth/Register.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seller-Portal/pages/Dashboard/SellerDashboard.jsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,27 +72,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Company Related/MarketPlace/marketplace-frontend&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;D:\\Softwares\\PycharmProfessional\\PyCharm 2023.3.4\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Company Related/MarketPlace/marketplace-frontend/src/Seller-Portal/assets/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "ts.external.directory.path": "D:\\Company Related\\MarketPlace\\marketplace-frontend\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Company Related\MarketPlace\marketplace-frontend\src\Seller-Portal\assets\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Company Related\MarketPlace\marketplace-frontend\src\Seller-Portal\pages\Dashboard" />
+      <recent name="D:\Company Related\MarketPlace\marketplace-frontend\public" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -82,22 +122,12 @@
       <workItem from="1737964740258" duration="2784000" />
       <workItem from="1737992638241" duration="3288000" />
       <workItem from="1738043158560" duration="5672000" />
-      <workItem from="1738087176932" duration="797000" />
+      <workItem from="1738087176932" duration="1194000" />
+      <workItem from="1738138116901" duration="18106000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/Landing-Page/LandingPage.jsx</url>
-          <line>9</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
